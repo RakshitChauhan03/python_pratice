@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rakshit Chauhan",
+        "age": 25,
+        "email": "r@gamil.com",
+        "pin": 1234,
+        "accountNo": "1234",
+        "balance": 1000
+    },
+    {
+        "name": "adarsh",
+        "age": 26,
+        "email": "ad@gmail.com",
+        "pin": 1234,
+        "accountNo": "d$R230C",
+        "balance": 0
+    },
+    {
+        "name": "herllo",
+        "age": 26,
+        "email": "h@gamil.com",
+        "accountNo": "4126813011",
+        "pin": "1456",
+        "balance": 0
+    }
+]
